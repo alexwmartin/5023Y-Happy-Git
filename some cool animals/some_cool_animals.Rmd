@@ -1,6 +1,6 @@
 ---
 title: "Some cool animal facts"
-author: "Philip Leftwich"
+author: "Philip Leftwich, Alex Martin"
 output: html_document
 ---
 
@@ -57,7 +57,23 @@ knitr::opts_chunk$set(echo = TRUE)
 - They are not endangered, just very elusive
 - Closely related to raccoons
 
+
+#### Grogu
+
+![Photo of Grogu](img/Grogu.jpg)
+
+##### Grogu fun facts:
+
+- Also known as "The Child"
+- Likes unfertilised frog eggs and control knobs
+- Strong with the force
+
 ###
 
 ----------
 **Disclaimer:** This document is only for R Markdown & GitHub teaching purposes
+
+
+
+gitcreds::gitcreds_set(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)
+
